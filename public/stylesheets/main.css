@@ -1,6 +1,7 @@
 body {
   background-color: #d0e4fe;
   background-image: url('lol.jpg');
+  background-size: 100vw 100vh;
 }
 
 h1 {
